@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "China",
+      "capital": "Beijing",
+      "population": 1411778724,
+      "interestingFacts": [
+        "The Great Wall of China is over 13,000 miles long.",
+        "China is the world's largest producer of rice."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "India",
+      "capital": "New Delhi",
+      "population": 1366417754,
+      "interestingFacts": [
+        "India is the birthplace of major religions, including Hinduism, Buddhism, and Sikhism.",
+        "The Taj Mahal, one of the Seven Wonders, is located in India."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331002651,
+      "interestingFacts": [
+        "The United States has the world's largest economy.",
+        "The Grand Canyon is over 277 miles long."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Indonesia",
+      "capital": "Jakarta",
+      "population": 273523615,
+      "interestingFacts": [
+        "Indonesia is made up of over 17,000 islands.",
+        "It has the world's largest Muslim population."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pakistan",
+      "capital": "Islamabad",
+      "population": 220892340,
+      "interestingFacts": [
+        "Pakistan is home to one of the largest mountain ranges in the world, the Himalayas.",
+        "It is the world's sixth-most populous country."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417,
+      "interestingFacts": [
+        "The Amazon Rainforest, the world's largest tropical rainforest, is in Brazil.",
+        "Brazil is known for its Carnival festival."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Nigeria",
+      "capital": "Abuja",
+      "population": 206139589,
+      "interestingFacts": [
+        "Nigeria is Africa's most populous country.",
+        "It is the world's largest producer of Nollywood films."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Bangladesh",
+      "capital": "Dhaka",
+      "population": 164689383,
+      "interestingFacts": [
+        "Bangladesh is one of the most densely populated countries in the world.",
+        "It has the longest sea beach in the world, Cox's Bazar."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Russia",
+      "capital": "Moscow",
+      "population": 145934462,
+      "interestingFacts": [
+        "Russia is the largest country in the world by land area.",
+        "Lake Baikal in Russia is the deepest freshwater lake on Earth."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "population": 128933395,
+      "interestingFacts": [
+        "Mexico is home to the largest pyramid in the world, the Great Pyramid of Cholula.",
+        "It has 34 UNESCO World Heritage Sites, the most in the Americas."
+      ]
+    }
+  ]
+  

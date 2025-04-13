@@ -1,0 +1,20 @@
+[
+    {   
+        "id":1,
+        "icon":"Mdplace",
+        "title":"Find Us",
+        "details":"Solapur Maharashtra"
+    },
+    {
+        "id":2,
+        "icon":"IoCallSharp",
+        "title":"Call Us",
+        "details":"9325XXXXXX"
+    },
+    {
+        "id":3,
+        "icon":"TbMailPlus",
+        "title":"Mail Us",
+        "details":"abcd@gmail.com"
+    }
+]
